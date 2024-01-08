@@ -1,7 +1,7 @@
-baseURL = "/"
-theme = "hugo-whisper-theme"
+baseURL = "https://taesung320.github.io"
+theme = "hugo-book-theme"
 languageCode = "en-us"
-title = "Hugo Whisper Theme"
+title = "Hugo book  Theme"
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true

@@ -1,8 +1,9 @@
 baseURL = "https://taesung320.github.io"
-theme = "hugo-book-theme"
+theme = "hugo-book"
 languageCode = "en-us"
 title = "Hugo book  Theme"
 
+profilePicture = "images/profile_pic.png"
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
